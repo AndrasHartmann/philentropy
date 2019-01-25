@@ -49,7 +49,7 @@
 #' P.count <- 1:10
 #' Q.count <- 20:29
 #' x.count <- rbind(P.count,Q.count)
-#' JSD(x, est.prob = "empirical")
+#' JSD(x.count, est.prob = "empirical")
 #' 
 #' # Example: Distance Matrix using JSD-Distance
 #' 
